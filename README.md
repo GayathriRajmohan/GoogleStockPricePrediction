@@ -4,4 +4,5 @@ Google, the tech giant behind the world's most popular search engine, continues 
 
 ## Screenshots
 ![Output1](https://github.com/GayathriRajmohan/GoogleStockPricePrediction/blob/main/Output/Screenshot%202024-04-05%20190348.png)
+
 ![Output2](https://github.com/GayathriRajmohan/GoogleStockPricePrediction/blob/main/Output/Screenshot%202024-04-05%20190407.png)
